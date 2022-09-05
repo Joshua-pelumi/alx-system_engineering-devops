@@ -1,1 +1,1 @@
-Add readme file
+A readme file on shell permissions
